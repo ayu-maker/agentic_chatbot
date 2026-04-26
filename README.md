@@ -22,7 +22,7 @@ Streams responses using LLM streaming APIs
 Handles session management using thread_id
 ⚙️ Installation
 # Clone the repository
-git clone https://github.com/your-username/agentic-ai-chatbot.git
+git clone https://github.com/ayu-maker/agentic_chatbot.git
 
 # Navigate to project
 cd agentic-ai-chatbot
